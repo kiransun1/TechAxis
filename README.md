@@ -1,2 +1,2 @@
 # TechAxis
-Learning Devops
+Learning Devops purpose
